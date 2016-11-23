@@ -19,19 +19,6 @@ For those who uses Windows, you should run `gradlew.bat` with the same parameter
 
 Both IDEA and Eclipse have plugin for Gradle.
 
-Some existing tests need Java 8.
-
-
-# Code location
-
-`src/main/java` is for word count code.
-
-`src/test/java` is for tests. And `src/test/resources` is for test data.
-
-In most cases, adding or modifying files in other places is not necessary.
-
-An example input is included in PageRank.java
-
 
 # Input/Output Format
 
